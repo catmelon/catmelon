@@ -1061,12 +1061,12 @@
 
 	#footer {
 		text-align: center;
-		background: #f8f8f8;
+		background: #424242;
 		padding: 4em 0 6em 0;
 	}
 
 		#footer a {
-			color: inherit;
+			color: #bbb;
 		}
 
 		#footer .copyright {
